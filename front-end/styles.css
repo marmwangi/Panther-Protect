@@ -1,0 +1,102 @@
+/* background color (every page)*/
+body {
+    background-color: rgb(244,244,244);
+} 
+/* end of background color*/
+
+/* Top navbar (every page) */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(191, 191, 191);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(50,77,171);
+}
+
+.active {
+    background-color: rgb(137,154,214);
+}
+/* end of top nav */
+
+/* homepage styling */
+.news{
+    border-radius: 25px;
+    border: 2px solid rgb(8, 24, 94);
+    background: rgb(35,61,144);
+    padding: 20px; 
+    width: 830px; 
+    height:300px;  
+    display:inline-block; 
+   
+} 
+
+.forum{
+    border-radius: 25px;
+    border: 2px solid rgb(8, 24, 94);
+    background: rgb(35,61,144);
+    padding: 20px; 
+    width: 500px; 
+    height:600px; 
+    display:inline-block;
+}
+
+.prevention{
+    border-radius: 25px;
+    border: 2px solid rgb(35,61,144);
+    background:rgb(50,77,171);
+    padding: 20px; 
+    width: 830px; 
+    height:300px;
+    display:inline-block; 
+}
+
+p{
+    border: 2px solid rgb(35,61,144);
+    background: rgb(50,77,171);
+    text-align: center;
+    padding: 20px; 
+    color: white; 
+    font-family:'Source Sans Pro Topnav', sans-serif;
+    
+}
+/* end of homepage styling */
+
+/* newspage styling */
+
+
+
+/* end of newspage styling */
+
+/* prevention styling */
+
+
+
+/* end of prevention styling */
+
+/* testinmonies styling */
+
+
+
+/* end of testimonies styling */
+
+/* hotlines styling */
+
+
+
+/* end of hotlines styling */

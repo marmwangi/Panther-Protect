@@ -27,7 +27,7 @@ Database Development: SQL, pandas |
 Data Visualization: Matplotlib
 
 ## Team
-* **Alaya Mccall(@amccall04)** - Data Analyst
-* **Chenice Taylor (@chenicetaylor5)** - Front-end Developer
-* **Martha Mwangi(@marmwangi)** - Back-end Developer
-* **Vanohara Gaspard (@)** - Back-end Developer
+* **Alaya Mccall(git - @amccall04, [linkedIn](www.linkedin.com/in/alaya-m/))** - Data Analyst
+* **Chenice Taylor (git - @chenicetaylor5, [linkedIn](www.linkedin.com/in/chenice-taylor/))** - Front-end Developer
+* **Martha Mwangi(git - @marmwangi, [linkedIn](www.linkedin.com/in/marmwangi))** - Back-end Developer
+* **Vanohara Gaspard (git - @vanohara, [linkedIn](https://www.linkedin.com/in/vanohra-gaspard-chrissy/))** - Back-end Developer

@@ -46,6 +46,17 @@ li a:hover {
 
 
 /* homepage styling */
+
+.forum{
+  border-radius: 25px;
+  border: 2px solid rgb(8, 24, 94);
+  background: rgb(35,61,144);
+  padding: 20px; 
+  width: 400px; 
+  height:600px; 
+  display:inline-block;
+}
+
 .news{
     border-radius: 25px;
     border: 2px solid rgb(8, 24, 94);
@@ -54,18 +65,7 @@ li a:hover {
     width: 830px; 
     height:300px;  
     display:inline-block; 
-   
 } 
-
-.forum{
-    border-radius: 25px;
-    border: 2px solid rgb(8, 24, 94);
-    background: rgb(35,61,144);
-    padding: 20px; 
-    width: 500px; 
-    height:600px; 
-    display:inline-block;
-}
 
 .prevention{
     border-radius: 25px;
@@ -87,9 +87,9 @@ p{
     
 }
 
-.hp-container{
-  
+.hp-container > div{
   display: flex;
+  float: left;
 }
 
 /* end of homepage styling */

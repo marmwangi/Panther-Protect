@@ -51,30 +51,31 @@ li a:hover {
   border-radius: 25px;
   border: 2px solid rgb(8, 24, 94);
   background: rgb(35,61,144);
-  padding: 20px; 
+  padding: 40px; 
   width: 400px; 
-  height:600px; 
-  display:inline-block;
+  height:800px;
+  top: 50px;
+  display: inline-box;
 }
 
 .news{
     border-radius: 25px;
     border: 2px solid rgb(8, 24, 94);
     background: rgb(35,61,144);
-    padding: 20px; 
+    padding: 40px; 
     width: 830px; 
     height:300px;  
-    display:inline-block; 
+    display:block; 
 } 
 
 .prevention{
     border-radius: 25px;
-    border: 2px solid rgb(35,61,144);
+    border: 2px solid rgb(8, 24, 94);
     background:rgb(50,77,171);
-    padding: 20px; 
+    padding: 40px; 
     width: 830px; 
     height:300px;
-    display:inline-block; 
+    display:block; 
 }
 
 p{
@@ -87,9 +88,9 @@ p{
     
 }
 
-.hp-container > div{
-  display: flex;
-  float: left;
+.hp-container{
+  display: inline-block;
+  
 }
 
 /* end of homepage styling */
